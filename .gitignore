@@ -1,0 +1,9 @@
+backend/.venv/
+node_modules/
+.env
+__pycache__/
+.ipynb_checkpoints/
+.idea/
+.DS_Store
+
+
