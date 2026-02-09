@@ -1,0 +1,23 @@
+Event_Name,Expected_Date,Detected_Date,Volatility_Change_Pct,Volatility_Pre,Volatility_Post
+First Gulf War,1990-08-02,1990-07-31,204.17,0.02034,0.06185
+Asian Financial Crisis,1997-07-02,1997-12-29,6.73,0.01719,0.01835
+OPEC Coordinated Production Cuts,1999-03-01,1999-02-09,-28.79,0.03224,0.02296
+September 11 Attacks,2001-09-11,2001-09-10,89.71,0.02012,0.03818
+Iraq War,2003-03-20,2002-10-18,34.61,0.0166,0.02234
+Global Financial Crisis,2008-09-15,2008-08-20,113.87,0.0229,0.04897
+Arab Spring,2011-01-25,2011-05-02,38.51,0.01519,0.02104
+Libyan Civil War,2011-02-15,2011-05-02,47.67,0.01385,0.02046
+Iran Nuclear Sanctions,2012-01-23,2012-06-25,21.87,0.01571,0.01915
+Russia–Ukraine Crimea Conflict,2014-03-18,2014-09-12,-18.24,0.00968,0.00791
+OPEC Decision to Maintain Output,2014-11-27,2014-10-01,170.45,0.00885,0.02393
+China Stock Market Crash,2015-06-12,2014-12-29,90.43,0.01345,0.02562
+OPEC and Non-OPEC Production Cut Agreement,2016-11-30,2016-12-22,-32.13,0.02512,0.01705
+US Sanctions on Venezuela,2017-08-25,2017-07-07,-29.04,0.01886,0.01338
+US Withdrawal from Iran Nuclear Deal,2018-05-08,2018-11-02,21.14,0.01422,0.01723
+Saudi Aramco Facility Attack,2019-09-14,2020-03-05,200.54,0.02127,0.06393
+OPEC+ Price War,2020-03-06,2020-03-05,360.19,0.02185,0.10053
+COVID-19 Global Lockdowns,2020-03-11,2020-03-05,362.53,0.02147,0.09932
+OPEC+ Historic Production Cuts,2020-04-12,2020-03-05,390.35,0.01869,0.09164
+Post-COVID Global Economic Recovery,2021-06-01,2021-11-25,40.28,0.01726,0.02421
+Russia–Ukraine Full-Scale War,2022-02-24,2022-02-24,72.42,0.02089,0.03602
+EU Sanctions on Russian Oil,2022-06-03,2022-02-24,68.69,0.01938,0.03269
