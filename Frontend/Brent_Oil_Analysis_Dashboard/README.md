@@ -94,6 +94,18 @@ pnpm run dev
 
     Performance: Large datasets (5,000+ points) are optimized using Recharts' allowDataOverflow and backend-side downsampling where necessary.
 
+## Dashborad preview
+![A screenshot of the project](Frontend/Brent_Oil_Analysis_Dashboard/src/assets/1.png)
+
+![A screenshot of the project](Frontend/Brent_Oil_Analysis_Dashboard/src/assets/2.png)
+
+
+![A screenshot of the project](Frontend/Brent_Oil_Analysis_Dashboard/src/assets/3.png)
+
+
+![A screenshot of the project](Frontend/Brent_Oil_Analysis_Dashboard/src/assets/4.png)
+
+
 Developer: Yonatan
 
 Status: Production Ready
