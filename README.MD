@@ -32,7 +32,7 @@ The system is deployed as an **interactive Model Observability Dashboard**, enab
 
 ## 🛠️ Tech Stack
 
-### Backend ("Ferrari Engine")
+### Backend ("THE Brain")
 
 * **Python 3.10**: Core logic
 * **Flask**: REST API serving model artifacts
