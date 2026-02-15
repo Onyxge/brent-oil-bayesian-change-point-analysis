@@ -23,3 +23,18 @@ ipykernel
 # Backend (Task 3 - Preparing ahead)
 flask
 flask-cors
+
+#DB
+psycopg2-binary
+SQLAlchemy
+apscheduler
+
+python-dotenv
+
+
+#live data
+yfinance
+
+
+tqdm
+lstm
