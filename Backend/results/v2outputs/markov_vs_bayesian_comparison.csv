@@ -1,0 +1,8 @@
+Metric,Markov Model,Bayesian Model
+Normal Days,"3,741","3,347"
+Crisis Days,830,"1,060"
+Normal %,81.8%,72.5%
+Crisis %,18.2%,23.0%
+Normal Volatility,0.015500,0.022834
+Crisis Volatility,0.042263,0.029600
+Vol Ratio (Crisis/Normal),2.73x,1.30x
