@@ -1,0 +1,12 @@
+Metric,Value
+Total Days Analyzed,"4,615"
+Change Points Detected,11
+Average Confidence,0.892
+Normal Days,"3,347 (72.5%)"
+Crisis Days,"1,060 (23.0%)"
+Recovery Days,208 (4.5%)
+Normal Volatility,0.02283
+Crisis Volatility,0.02960
+Recovery Volatility,0.01571
+Avg Crisis Duration,140 days
+Detection Rate vs Ground Truth,44.0% (11/25 events)
