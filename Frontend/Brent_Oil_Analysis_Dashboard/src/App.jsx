@@ -1,13 +1,22 @@
-import { Admin, Resource } from 'react-admin';
+import { Admin, Resource, CustomRoutes, Layout, Menu } from 'react-admin';
+import { Route } from 'react-router-dom';
 import { dataProvider } from './Components/DataProvider';
-import { Dashboard } from './Components/Dashboard'; // Import your new fancy dashboard
-import { EventList } from './Components/EventList'; // Assuming you moved the list code here
+import { Dashboard } from './Components/Dashboard';
+import { EventList } from './Components/EventList';
+import ForecastPage from './Components/ForecastPage';
 import EventIcon from '@mui/icons-material/Event';
+import TimelineIcon from '@mui/icons-material/Timeline';
+
+import PortfolioDashboard from './PortfolioDashboard';
+
+// Custom layout using your menu
+const CustomLayout = (props) => (
+    <Layout {...props} menu={CustomMenu} />
+);
+
 
 const App = () => (
-    <Admin dashboard={Dashboard} dataProvider={dataProvider}>
-        <Resource name="events" list={EventList} icon={EventIcon} />
-    </Admin>
+    <PortfolioDashboard/>
 );
 
 export default App;
